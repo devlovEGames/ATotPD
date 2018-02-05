@@ -6,14 +6,18 @@ Vit (8) 16.
 every spent point to the (SP) raises both the sp and output by 1.   after spending 13 stat points, and both values are raised, a level up bonus is awarded and all stats are raised by the number of (SP) spent points. 
 
 from 0 to 1: vit: (8) 8 -to- (8) 16.  
-from 1 to 2: (+4 to vit @ level 1) before: Vit: (12) 20  After (level 2) Vit: (12) 22.  
+from 1 to 2: (+4 to vit @ level 1) BEFORE: Vit: (12) 20  AFTER: (level 2) Vit: (12) 22.  
 one more time, from 2 to 3: (+5 to vit @ level 2)       
-BEFORE: Vit: (17) 25|  
-AFTER: Vit: (17) 42.   
+BEFORE: Vit: (17) 27  
+AFTER: Vit: (17) 44.   
 
-this is the manner by which the top 9 stats are calculated between levels. The bottom four stats, Luck, Willpower, Flexibility, and Rage have to compare to one another and perform a subtraction.  Luck and Willpower negate each other. 
-when calculating stats, they are compared to each other and the higher and lower are determined.  the higher is reduced by the amount in the lower.   
-so luck or willpwer. rage or flexibility. pick one, or face some pretty funny consequences.   
+this is the manner by which the top 9 stats are calculated between levels. 
+The bottom four stats, Luck, Willpower, Flexibility, and Rage have to compare to one another and perform a subtraction.  Luck and Willpower negate each other, Rage and Flexibility negate each other. 
+when calculating stats, they are compared to each other and the higher and lower are determined.  
+the higher is reduced by the amount in the lower. 
+
+so luck or willpwer. rage or flexibility. pick one, or face some pretty funny consequences.
+
 the algorithm is as follows:    
 Luck/Flexibility (16) 72 | Willpower/Rage (1) 15      
 leveling up and +3 points  
