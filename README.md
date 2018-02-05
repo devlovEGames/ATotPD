@@ -45,7 +45,7 @@ so after raising the initial output by the flex % bonus, calculating the "altern
 willpower does not apply to Vit, Int, and Wit, and Rage only applies to Stm, Str, Spd, and Agi (dat berserker's loss of dexterity! :O).  
 once you've calculated your stat points, compensated your augmentation stat outputs, compiled their percentile bonuses, applied flex to all stats (except vitality!), and calculated the reserve augmentations for rage and will, you're ready to calculate spirit! (now it gets a little more straight forward)
 
-1. Spirit: ((Level*13)+(L0 creation point value))+(Will-Rage[permitting negative values])
+1. Spirit: (sum total of all acquired stat points)+(Will-Rage[permitting negative values])
 2. Augment Bonuses: compare Flexibility to Rage, and Luck to Willpower then subtract the lower output from the higher
 8. Wisdom: (Int*Wit)/(Level*10)+([Int]+[Wit])  {[denotes stat point expenditures not outputs]}
 9. Perception: ((Int+Wit+Wisdom)/3)*Luck%
