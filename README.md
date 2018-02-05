@@ -46,7 +46,6 @@ willpower does not apply to Vit, Int, and Wit, and Rage only applies to Stm, Str
 once you've calculated your stat points, compensated your augmentation stat outputs, compiled their percentile bonuses, applied flex to all stats (except vitality!), and calculated the reserve augmentations for rage and will, you're ready to calculate spirit! (now it gets a little more straight forward)
 
 1. Spirit: (sum total of all acquired stat points)+(Will-Rage[permitting negative values])
-2. Augment Bonuses: compare Flexibility to Rage, and Luck to Willpower then subtract the lower output from the higher
 8. Wisdom: (Int*Wit)/(Level*10)+([Int]+[Wit])  {[denotes stat point expenditures not outputs]}
 9. Perception: ((Int+Wit+Wisdom)/3)*Luck%
 10. Appearance: ((Vit+Int+Dex+Stm+Str)/5)+Spirit
