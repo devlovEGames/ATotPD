@@ -137,3 +137,4 @@ once you've calculated your stat points, compensated your augmentation stat outp
 22. Mana regeneration rate: (((Wisdom+Int+Wit)/3)= mana per hour)/60= mana per minute (divide by 60 for per second)
 23. MgA: ((Wit*Dex)*Flex%)*Will%
 24. MgD: ((Vit*Int)*Flex%)*Will%
+(how do i get word wrap turned on ffs?)
